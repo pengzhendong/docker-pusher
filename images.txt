@@ -1,13 +1,10 @@
-15cm/flaresolverr
-cloudnas/clouddrive2-unstable
 easychen/cookiecloud
-iyuucn/iyuuplus-dev
+haishanh/yacd
 jazzdd/wol
-jeessy/ddns-go
 jxxghp/moviepilot
 linuxserver/qbittorrent
 linuxserver/transmission
-portainer/portainer-ce
+metacubex/mihomo
 qdtoday/qd
 snowdreamtech/frpc
 whyour/qinglong
