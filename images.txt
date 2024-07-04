@@ -1,5 +1,20 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+15cm/flaresolverr
+cloudnas/clouddrive2-unstable
+easychen/cookiecloud
+iyuucn/iyuuplus-dev
+jazzdd/wol
+jeessy/ddns-go
+jxxghp/moviepilot
+linuxserver/qbittorrent
+linuxserver/transmission
+portainer/portainer-ce
+qdtoday/qd
+snowdreamtech/frpc
+whyour/qinglong
+xhofe/alist
+xiaoyaliu/alist
+zerotier/zerotier
+
+# 支持私库: k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# 支持 tag (默认 latest): xhofe/alist:latest
+# 支持指定架构: --platform=linux/arm64 xiaoyaliu/alist
